@@ -2,10 +2,29 @@
 
 exports[`<Main /> Should render the heading 1`] = `
 <div>
-  <main>
-    <h1>
+  <main
+    class="styles__Wrapper-heyFP kMDFpc"
+  >
+    <img
+      alt="React avancado"
+      class="styles__Logo-bSryDj imcKrg"
+      src="/img/logo.svg"
+    />
+    <h1
+      class="styles__Title-cLvJfs hkqwnH"
+    >
       Nextjs boilerplate
     </h1>
+    <h2
+      class="styles__Description-elWOBK gJKaYL"
+    >
+      Typescript, ReactJS, NextJS and Styled Components
+    </h2>
+    <img
+      alt="developer in front of a computer"
+      class="styles__Illustration-fyJZJM fjqpFV"
+      src="/img/hero-illustration.svg"
+    />
   </main>
 </div>
 `
