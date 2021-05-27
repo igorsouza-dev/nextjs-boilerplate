@@ -4,7 +4,7 @@ exports[`<Main /> Should render the heading 1`] = `
 <div>
   <main>
     <h1>
-      advanced react
+      Nextjs boilerplate
     </h1>
   </main>
 </div>
